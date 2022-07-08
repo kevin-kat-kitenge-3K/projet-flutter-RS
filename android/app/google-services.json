@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854724555482",
+    "project_id": "picha-b2084",
+    "storage_bucket": "picha-b2084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854724555482:android:a61f9aeb5f7eccff196be3",
+        "android_client_info": {
+          "package_name": "com.example.picha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854724555482-iglo7cbkp1bv6qtsfeag02f9q2p1albq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6QI2cgUAooiNj4tyXEGc8Nt1jUQggbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854724555482-iglo7cbkp1bv6qtsfeag02f9q2p1albq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
